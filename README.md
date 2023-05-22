@@ -133,18 +133,6 @@
 
 - 修复 侧边栏配置的 `分类` 和 `标签` 模块
 
-## 加入我们
-
-&emsp;&emsp;如果你对主题有什么建议或者意见，欢迎提 PR & issue。
-
-&emsp;&emsp;想了解更多信息可以关注 「 程序员小航 」。
-
-![程序员小航](https://liuzhihang.com/themes/theme-hao/assets/images/wechat/wechat1.png)
-
-- 发送 "hao 群" 可以加群 （群验证信息最好是个人网站）
-- 发送"加好友"，可以加我微信，我拉你进群 （群二维码失效时）
-
-> 卖服务器的广告人，就不要加了。
 
 ## Contributors
 
